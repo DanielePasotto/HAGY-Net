@@ -87,7 +87,7 @@ You can customize the execution by passing arguments in the command line (refer 
 - `--dataset_path`: Path to the raw dataset (Default: `dataset`).
 - `--processed_dataset_path`: Path to the processed dataset (Default: `processed_dataset`).
 - `--weights_dir`: Directory where weights are saved during training (Default: `weights`).
-- `--HYnet_weights_path`: Path to load/save HY-Net weights.
+- `--hagynet_weights_path`: Path to load/save HY-Net weights.
 - `--harmnet_weights_path`: Path to load/save HarmNet weights.
 - `--epochs`: Number of training epochs (Default: 100).
 - `--batch_size`: Batch size for the dataloaders (Default: 4).
