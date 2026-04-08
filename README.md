@@ -54,7 +54,7 @@ You can define which network you want to train by passing the appropriate flags.
   ```
 - **Train HarmNet**
   ```bash
-  python train.py --harmnet True --HYnet False
+  python train.py --harmnet True --hagynet False
   ```
 - **Train Both**
   ```bash
@@ -70,7 +70,7 @@ Evaluate the trained models on your separate test set. Metrics such as mIoU, Dic
 
 - **Test HY-Net**
   ```bash
-  python test.py --HYnet True
+  python test.py --hagynet True
   ```
 
 ### 3. Inference (`predict.py`)
