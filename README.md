@@ -1,7 +1,7 @@
 # HY-Net
 
 ## Overview
-HY-Net is a deep learning project for semantic segmentation. It features a dual-network architecture primarily comprising **HarmNet** (for image harmonization/processing) and **HY-Net** (for the main segmentation task). This repository contains the source code for training, evaluating, and running inference with these models.
+HY-Net is a deep learning project for semantic segmentation. It features a dual-network architecture primarily comprising **HarmNet** (for image harmonization/processing) and **Asymmetric Gated Y-Net** (for the main segmentation task). This repository contains the source code for training, evaluating, and running inference with these models.
 
 ## Installation
 
