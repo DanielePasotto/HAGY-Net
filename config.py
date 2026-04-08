@@ -1,7 +1,7 @@
 import argparse
 
 def get_args():
-    parser = argparse.ArgumentParser(description="Unified Configuration for HAGY-Net and HarmNet.")
+    parser = argparse.ArgumentParser(description="Unified Configuration for HY-Net and HarmNet.")
     
     # General Execution
     parser.add_argument("--harmnet", type=bool, default=False, help="Train/Test HarmNet")
